@@ -1,0 +1,15 @@
+/* Footer-section */
+.foot{
+    background-color: #f0eded;
+    display: flex;
+    justify-content: space-between;
+}
+.foot-title{
+    color: #2b2929;
+    padding: 25px 30px ;
+
+}
+img{
+    padding: 25px 30px 25px 0;
+    font-size: 25px;
+}
